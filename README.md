@@ -1,2 +1,2 @@
-# manimGPT-plugin
-a chatGPT plugin that renders manim animations
+# ManimGPT
+Combining chatGPT with the manim docs to generate manim code 
